@@ -9,7 +9,11 @@
 
 #### 插件下载
 
+##### 原版
 > [https://github.com/adams549659584/utools-fund/releases](https://github.com/adams549659584/utools-fund/releases)
+
+##### 魔改
+> [https://github.com/JinnHo/utools-fund/releases](https://github.com/JinnHo/utools-fund/releases)
 
 #### 使用说明
 

@@ -3,9 +3,9 @@
  */
 const pluginConfig = {
   pluginId: 'ae839ccb',
-  pluginName: '自选基金助手',
+  pluginName: '自选基金助手-魔改分类',
   // version: 'v0.0.0',
-  description: '自选基金助手-魔改',
+  description: '自选基金助手-魔改版',
   author: '罗君',
   homepage: 'https://github.com/adams549659584/utools-fund',
   // main: 'index.html',
@@ -42,11 +42,17 @@ const pluginConfig = {
       cmds: ['我的自选基金', '基金', 'fund'],
     },
     {
-      code: 'utools_fund_market',
-      explain: '大盘行情',
+      code: 'utools_fund_my_buy',
+      explain: '我的已买基金',
       icon: 'assets/img/market.png',
-      cmds: ['大盘行情', '基金', 'fund'],
+      cmds: ['已买', '基金', 'fund'],
     },
+    // {
+    //   code: 'utools_fund_market',
+    //   explain: '大盘行情',
+    //   icon: 'assets/img/market.png',
+    //   cmds: ['大盘行情', '基金', 'fund'],
+    // },
     {
       code: 'utools_fund_config_export',
       explain: '导出我的自选基金',

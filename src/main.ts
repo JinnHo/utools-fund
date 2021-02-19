@@ -4,6 +4,7 @@ import fundDel from './features/fundDel';
 import fundMarket from './features/fundMarket';
 import fundExport from './features/fundExport';
 import fundMy from './features/fundMy';
+import fundMyBuy from './features/fundMyBuy';
 import fundImport from './features/fundImport';
 
 const preload: TemplatePlugin = {
@@ -13,6 +14,7 @@ const preload: TemplatePlugin = {
   utools_fund_market: fundMarket,
   utools_fund_config_export: fundExport,
   utools_fund_config_import: fundImport,
+  utools_fund_my_buy: fundMyBuy,
 };
 
 window.exports = preload;

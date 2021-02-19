@@ -1,7 +1,7 @@
 {
   "name": "utools-fund",
-  "version": "v1.6.1",
-  "description": "自选基金助手",
+  "version": "v1.6.1-1",
+  "description": "自选基金助手-魔改",
   "main": "main.ts",
   "scripts": {
     "dev": "set NODE_ENV=development && rollup -c -w",

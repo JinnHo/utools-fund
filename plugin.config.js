@@ -27,13 +27,13 @@ const pluginConfig = {
       code: 'utools_fund_add',
       explain: '添加自选基金',
       icon: 'assets/img/add.png',
-      cmds: ['添加自选基金', '继续添加自选基金', '基金', 'fund'],
+      cmds: ['添加自选基金', '继续添加自选基金', '基金'],
     },
     {
       code: 'utools_fund_del',
       explain: '删除自选基金',
       icon: 'assets/img/del.png',
-      cmds: ['删除自选基金', '继续删除自选基金', '基金', 'fund'],
+      cmds: ['删除自选基金', '继续删除自选基金', '基金'],
     },
     {
       code: 'utools_fund_my',
@@ -57,7 +57,7 @@ const pluginConfig = {
       code: 'utools_fund_config_export',
       explain: '导出我的自选基金',
       icon: 'assets/img/sync.png',
-      cmds: ['导出我的自选基金', '基金', 'fund'],
+      cmds: ['导出我的自选基金', '基金'],
     },
     {
       code: 'utools_fund_config_import',

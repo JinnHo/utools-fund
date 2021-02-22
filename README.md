@@ -19,6 +19,10 @@
 
 ![Instructions.gif](https://s1.ax1x.com/2020/08/19/dQ8R3t.gif)
 
+### v1.6.1-2（魔改）
+
+- 修改唤出命令
+
 ### v1.6.1-1（魔改）
 
 - 重新开放删除自选基金（mac不支持ctrl+delete删除）

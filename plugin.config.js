@@ -45,7 +45,7 @@ const pluginConfig = {
       code: 'utools_fund_my_buy',
       explain: '我的已买基金',
       icon: 'assets/img/market.png',
-      cmds: ['已买', '基金', 'fund'],
+      cmds: ['我的已买基金', '基金', 'fund'],
     },
     // {
     //   code: 'utools_fund_market',

@@ -233,6 +233,8 @@ const fundMy: TplFeature = {
           if (!Number.isNaN(holdCount)) {
             fundDb.data.holdCount = holdCount;
             FundDBHelper.update(fundDb);
+            utools.redirect('我的已买基金', '');
+            return false;
           }
         }
       }
